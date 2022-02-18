@@ -1,0 +1,25 @@
+{
+    "student" : [
+        {
+            "name": "Karima",
+            "roll": 1,
+            "class": "Nine",
+            "photo":    "https://im.rediff.com/movies/2021/jun/25priyamani1.jpg",
+            "location": "Mirpur"
+        },
+        {
+            "name": "Rahim",
+            "roll": 2,
+            "class": "Nine",
+            "photo":    "https://www.pngall.com/wp-content/uploads/2016/05/Man-Download-PNG.png",
+            "location": "uttara"
+        },
+        {
+            "name": "Jafir",
+            "roll": 3,
+            "class": "Nine",
+            "photo":    "https://freepngimg.com/thumb/man/22654-6-man.png",
+            "location": "Gulsan"
+        }
+    ]
+}
